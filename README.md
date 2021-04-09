@@ -2,6 +2,11 @@
 
 An experimental fork of Nord by Arctic Ice Studio.
 
+Goals:
+- [x] Support templating
+- [ ] Cleanup borders
+- [ ] A few minor fixes not applied to official repository
+
 Supported apps:
 - [JetBrains](https://github.com/subtheme-pro/nordic/tree/master/apps/jetbrains)
 
